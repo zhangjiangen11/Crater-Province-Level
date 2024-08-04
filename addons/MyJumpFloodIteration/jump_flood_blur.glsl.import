@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wfmvke70qcpa"
+path="res://.godot/imported/jump_flood_blur.glsl-a0bb5fcc3a9387b2be32d97a6d70f579.res"
+
+[deps]
+
+source_file="res://addons/MyJumpFloodIteration/jump_flood_blur.glsl"
+dest_files=["res://.godot/imported/jump_flood_blur.glsl-a0bb5fcc3a9387b2be32d97a6d70f579.res"]
+
+[params]
+

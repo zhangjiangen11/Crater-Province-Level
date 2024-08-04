@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ccg27o4i1gfty"
+path="res://.godot/imported/pre_blur_processor.glsl-33720cda3fb60d2309f9701a4ff21513.res"
+
+[deps]
+
+source_file="res://addons/PreBlurProcessing/pre_blur_processor.glsl"
+dest_files=["res://.godot/imported/pre_blur_processor.glsl-33720cda3fb60d2309f9701a4ff21513.res"]
+
+[params]
+
