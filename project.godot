@@ -29,6 +29,10 @@ window/vsync/vsync_mode=0
 
 enabled=PackedStringArray("res://addons/simplegrasstextured/plugin.cfg")
 
+[physics]
+
+common/physics_ticks_per_second=75
+
 [rendering]
 
 lights_and_shadows/use_physical_light_units=true
